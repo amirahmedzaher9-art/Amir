@@ -10,7 +10,7 @@
 🔍 &nbsp;I work with **SQL, Python, Excel, and Power BI** to clean, analyze, and visualize data.  
 📈 &nbsp;Interested in dashboards, automation, and building data-driven solutions.  
 🌱 &nbsp;Currently improving my skills in data modeling, forecasting, and storytelling with data.  
-✉️ &nbsp;Feel free to reach out at **your-email@example.com**.  
+✉️ &nbsp;Feel free to reach out at **amirahmedzaher9@gmail.com**.  
 💬 &nbsp;Happy to collaborate on analysis projects or dashboards!
 
 ---
