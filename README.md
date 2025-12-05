@@ -37,8 +37,6 @@
   <!-- Jupyter Notebook -->
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/>
 
-  <!-- Looker -->
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-looker-a-business-intelligence-software-company-owned-by-google-logo-color-tal-revivo.png" alt="Looker"/>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-link/">
@@ -95,9 +93,9 @@
 
 📊 &nbsp;I am **Amir Zaher**, a Data Analyst passionate about transforming data into meaningful insights.  
 🔍 &nbsp;I work with **SQL, Python, Excel, and Power BI** to clean, analyze, and visualize data.  
-📈 &nbsp;Interested in dashboards, automation, and building data-driven solutions.  
+📈 &nbsp;Interested in dashboards, and building data-driven solutions.  
 🌱 &nbsp;Currently improving my skills in data modeling, forecasting, and storytelling with data.  
-✉️ &nbsp;Feel free to reach out at **your-email@example.com**.  
+✉️ &nbsp;Feel free to reach out at **amirahmedzaher9@gmail.com**.  
 💬 &nbsp;Happy to collaborate on analysis projects or dashboards!
 
 ---
@@ -124,8 +122,6 @@
   <!-- Jupyter Notebook -->
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/>
 
-  <!-- Looker -->
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-looker-a-business-intelligence-software-company-owned-by-google-logo-color-tal-revivo.png" alt="Looker"/>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-link/">
